@@ -1,12 +1,14 @@
 package proyecto.main
 
 class Pepita {
-
- //Esto es un comentario. 
- val energia: Int
+  
+ val energia: Int = 100
  
  def vola(){
    
  }
- 
+
+ def come(){
+   
+ }
 }
